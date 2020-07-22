@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "advanced/*",
+    "basics/*",
+    "command-palette",
+    "commands",
+    "context-menu",
+    "launcher",
+    "log-console/*",
+    "main-menu",
+    "react/*",
+    "settings",
+    "state",
+    "widget-tracker/*"
+  ],
+  "npmClient": "jlpm",
+  "useWorkspaces": true,
+  "version": "independent"
+}

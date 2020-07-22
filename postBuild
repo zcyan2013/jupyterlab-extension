@@ -1,0 +1,5 @@
+jlpm
+jlpm build-ext
+jlpm install-ext
+jlpm build-jlab
+
